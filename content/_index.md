@@ -1,6 +1,6 @@
 +++
+insert_anchor_links = "right"
+title = "Home"
 +++
 
-Hi there
-
-It's working, just empty and dull (you can set the primary color in config)
+# WHAT'S UP GANG
