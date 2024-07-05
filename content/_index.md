@@ -1,6 +1,6 @@
 +++
-title = "List of blog posts"
-sort_by = "date"
-template = "blog.html"
-page_template = "blog-page.html"
 +++
+
+Hi there
+
+It's working, just empty and dull (you can set the primary color in config)
