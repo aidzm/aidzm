@@ -1,7 +1,7 @@
 # The URL the site will be built for
 base_url = "https://aidzm.github.io"
 theme = "duckquill"
-title = "aidzm"
+title = "mtsk"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -53,13 +53,6 @@ links = [
 ]
 
 [extra.footer]
-# Same as extra.nav
-links = [
-  { url = "@/blog/_index.md", name = "Blog" },
-  { url = "@/now/_index.md", name = "Now"},
-  { url = "@/uses/_index.md", name = "Uses"},
-  { url = "@/about/_index.md", name = "About"},
-]
 # Social links in the footer.
 # Any URL-encoded SVG can be used as an icon.
 # https://simpleicons.org is recommended source of SVG icons.
