@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>mtsk</title>
+      <link>https://aidzm.github.io</link>
+      <description></description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://aidzm.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Fri, 05 Jul 2024 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>The Third Post: Understanding how Git works.</title>
+          <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
+          <author>aidzm</author>
+          <link>https://aidzm.github.io/blog/third/</link>
+          <guid>https://aidzm.github.io/blog/third/</guid>
+          <description xml:base="https://aidzm.github.io/blog/third/">&lt;p&gt;Don’t mind me, trying to understand the Git workflow (staging, commits)&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>My second post</title>
+          <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
+          <author>aidzm</author>
+          <link>https://aidzm.github.io/blog/second/</link>
+          <guid>https://aidzm.github.io/blog/second/</guid>
+          <description xml:base="https://aidzm.github.io/blog/second/">&lt;p&gt;This is my second blog post.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>My first post</title>
+          <pubDate>Wed, 27 Nov 2019 00:00:00 +0000</pubDate>
+          <author>aidzm</author>
+          <link>https://aidzm.github.io/blog/first/</link>
+          <guid>https://aidzm.github.io/blog/first/</guid>
+          <description xml:base="https://aidzm.github.io/blog/first/">&lt;p&gt;This is my first blog post.&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>

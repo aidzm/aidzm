@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://aidzm.github.io/</loc>
+    </url>
+    <url>
+        <loc>https://aidzm.github.io/about/</loc>
+    </url>
+    <url>
+        <loc>https://aidzm.github.io/blog/</loc>
+    </url>
+    <url>
+        <loc>https://aidzm.github.io/blog/first/</loc>
+        <lastmod>2019-11-27</lastmod>
+    </url>
+    <url>
+        <loc>https://aidzm.github.io/blog/second/</loc>
+        <lastmod>2019-11-28</lastmod>
+    </url>
+    <url>
+        <loc>https://aidzm.github.io/blog/third/</loc>
+        <lastmod>2024-07-05</lastmod>
+    </url>
+    <url>
+        <loc>https://aidzm.github.io/now/</loc>
+    </url>
+    <url>
+        <loc>https://aidzm.github.io/uses/</loc>
+    </url>
+</urlset>
